@@ -67,3 +67,37 @@ Early stopping is applied to prevent overfitting.
 ---
 
 ## 📁 Project Structure
+├── main.py # Main experiment script
+├── best_model_smote.h5 # Best CNN model (with SMOTE)
+├── README.md # Project documentation
+├── requirements.txt # Dependency list
+
+
+---
+
+## ⚙️ Main Configuration
+- Number of reviews: 3000
+- Vocabulary size: 5000
+- Maximum sequence length: 100
+- Embedding dimension: 64
+- CNN kernel size: 5
+- Random state: 42
+
+---
+
+## 🛠️ Technologies Used
+- Python 3.x
+- TensorFlow / Keras
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- WordCloud
+- google-play-scraper
+
+---
+
+## ▶️ How to Run
+1. Install dependencies:
+```bash
+pip install -r requirements.txt

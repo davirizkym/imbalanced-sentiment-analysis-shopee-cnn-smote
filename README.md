@@ -68,8 +68,11 @@ Early stopping is applied to prevent overfitting.
 
 ## 📁 Project Structure
 ├── main.py # Main experiment script
+
 ├── best_model_smote.h5 # Best CNN model (with SMOTE)
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Dependency list
 
 

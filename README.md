@@ -96,8 +96,3 @@ Early stopping is applied to prevent overfitting.
 - google-play-scraper
 
 ---
-
-## ▶️ How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
